@@ -1,14 +1,14 @@
-🌐 HandSpeak Privacy Policy
+🌐 HandVoice+ Privacy Policy
 
 Effective date: February 2026
 
-HandSpeak (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile app HandSpeak.
+HandVoice+ (“we”, “our”, or “us”) respects your privacy and is committed to protecting it. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile app HandVoice+.
 
 1. Information We Collect
 
-No personal information is collected by HandSpeak.
+No personal information is collected by MLD HandConnect.
 
-HandSpeak does not track users, store email addresses, phone numbers, or location data.
+HandVoice+ does not track users, store email addresses, phone numbers, or location data.
 
 2. Use of Information
 
@@ -16,7 +16,7 @@ Since no personal information is collected, we do not use your data for any purp
 
 3. Third-Party Services
 
-HandSpeak may include third-party libraries provided by Flutter or Google Play services (e.g., for crash reporting or analytics), which may collect non-personal technical data automatically.
+HandVoice+ may include third-party libraries provided by Flutter or Google Play services (e.g., for crash reporting or analytics), which may collect non-personal technical data automatically.
 
 This data is used only to improve app performance and user experience.
 
@@ -28,7 +28,7 @@ We use standard industry practices to protect app files and prevent unauthorized
 
 5. Children’s Privacy
 
-HandSpeak is not intended for children under 13.
+HandVoice+ is not intended for children under 13.
 
 We do not knowingly collect any information from children.
 
@@ -42,4 +42,4 @@ Any changes will be posted here, and the effective date will be updated.
 
 If you have questions about this Privacy Policy, please contact us at:
 Email: mouadev.mld@gmail.com
-App: HandSpeak
+App: HandVoice+
